@@ -20,7 +20,7 @@
  	<a href="https://www.twitch.tv/xxclownedxx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/vECY9ZCkGN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/ClownedDev/ClownedDev/blob/master/img/perfil2.png?raw=true">
+<img align="right" height="150" style="border-radius:50px;" src="https://github.com/ClownedDev/ClownedDev/blob/master/img/perfil.png?raw=true">
 </div>
   
 ## 

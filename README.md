@@ -1,5 +1,15 @@
 ## Bienvenido a mi perfil mi nombre es Terry!
-> Mas de 10 años brindando servicios de vps, hosting y dedicados. Experiencia trabajando sobre emuladores como TC y AC, Creo diseños para FusionCMS.
+> Mas de 10 años brindando servicios de vps, hosting y dedicados. Experiencia trabajando sobre emuladores como TC y AC, Creo diseños para FusionCMS 🚀
+
+<p align="center">
+  💠
+  <a href="https://www.vps-plus.net/index.php">WEB VPSPLUS</a>
+  💠
+  <a href="https://www.paypal.me/ClownedX">MI PAYPAL</a>
+  💠
+  <a href="https://www.facebook.com/vpsplusboostgamers">FACEBOOK VPSPLUS</a>
+  💠
+</p>
 <div align="center">
   <a href="https://github.com/ClownedDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClownedDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

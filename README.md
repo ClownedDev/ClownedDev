@@ -24,7 +24,13 @@
 ## 
 
 ## PLANES VPS ACTUALES 2022 🟢
-
+> Anti Ddos✔️ Anti Bruteforce✔️ Anti Root kill✔️ Bloqueo de puertos✔️ Kernel Optimizado✔️ Certificado SSL✔️
+  
+<div align="center">
+<img height="200em" img src="https://github.com/ClownedDev/ClownedDev/blob/master/newplanwow.jpg?raw=true" alt="WoW-Guerrero">
+</div>
+  
+##   
 <div align="center">
 
 ![Snake animation](https://github.com/ClownedDev/ClownedDev/blob/output/github-contribution-grid-snake.svg)

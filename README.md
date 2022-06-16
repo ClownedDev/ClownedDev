@@ -15,7 +15,6 @@
 <div align="center">
   <a href="https://github.com/clowneddev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clowneddev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clowneddev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center">
   <a href="https://www.youtube.com/c/ClownedGaming" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

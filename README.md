@@ -22,7 +22,7 @@
 <img height="30" style="border-radius:50px;" src="https://github.com/ClownedDev/ClownedDev/blob/master/img/linea-head.png?raw=true">
 <p align="center">
 <a href="https://github.com/ClownedDev">
-<img width="44.8%" src="https://github-readme-stats.vercel.app/api?username=ClownedDev&show_icons=true" alt="ClownedDev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClownedDev&langs_count=8&layout=compact" alt="ClownedDev">
+<img width="44.8%" src="https://github-readme-stats.vercel.app/api?username=ClownedDev&show_icons=true&theme=tokyonight" alt="ClownedDev">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClownedDev&langs_count=8&layout=compact&theme=tokyonight" alt="ClownedDev">
 </a>
 </div>
